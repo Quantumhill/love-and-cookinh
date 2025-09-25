@@ -1,0 +1,14 @@
+{
+  "name": "love-and-cooking",
+  "version": "1.0.0",
+  "description": "Juego cozy 2D Cooking in Love",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Quantumhill",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
